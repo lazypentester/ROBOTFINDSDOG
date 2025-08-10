@@ -1,6 +1,6 @@
 # ⚡️ ROBOT FINDS DOG
 
-ROBOTFINDSDOG console game
+🎮 ROBOTFINDSDOG console game
 
 ## 🛠 Tech Stack
 
